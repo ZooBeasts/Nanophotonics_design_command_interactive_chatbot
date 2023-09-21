@@ -1,0 +1,189 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey, welcome",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "name",
+      "patterns": [
+        "What is your name?",
+        "What should I call you",
+        "Can you tell me your name?",
+        "Your name please",
+        "your name?",
+        "Do you have a name?",
+        "if I ask you your name?"
+      ],
+      "responses": [
+        "Certainly, I am Zoobeasts",
+        "I am Zoobeasts",
+        "Certainly, My name is Zoobeasts",
+        "You can call me Zoobeasts"
+      ]
+    },
+    {
+      "tag": "ai",
+      "patterns": [
+        "can you tell me about yourself?",
+        "What is your purpose",
+        "Who are you"
+
+      ],
+      "responses": [
+        "Certainly, I am AI based chatbot",
+        "I am AI based chatbot that help you visit our website",
+        "You can call me AI based chatbot"
+      ]
+    },
+    {
+      "tag": "location",
+      "patterns": [
+        "Where is your group located",
+        "Where are you?",
+        "How can I find your place",
+        "Location",
+        "where is your office",
+        "where is your group",
+        "where can I find you",
+        "where can I find your group"
+      ],
+      "responses": [
+        "Certainly, we are at School of Physics & Astronomy\nUniversity of St Andrews\nNorth Haugh\nSt Andrews\nKY16 9SS\nScotland\nUK"
+      ]
+    },
+    {
+      "tag": "joinus",
+      "patterns": [
+        "Can I join in your group?",
+        "How can I join?", 
+        "Any chance for me to apply?",
+        "I am interested in, how to join?",
+        "How to join?",
+        "Possible to join you?",
+        "Can I join you?",
+        "Can I join your group?",
+        "Where can I apply?"
+      ],
+      "responses": [
+        "Certainly, We offer a wide range of selection topics, \njust contact us using website or send us an email. looking forward to see you, Good Luck!"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon.",
+        "Nice seeing you"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "metamaterial",
+      "patterns": [
+        "What is metamaterial?",
+        "Explain metamaterial",
+        "metamaterial",
+        "can you tell me more about metamaterial"
+      ],
+      "responses": [
+        "Metamaterials are composite media that can be engineered to exhibit unique electromagnetic properties",
+        "A metamaterial is any material engineered to have a property that is rarely observed in naturally occurring materials"
+      ]
+    },
+    {
+      "tag": "metasurface",
+      "patterns": [
+        "What is metasurface?",
+        "Explain metasurface",
+        "metasurface",
+        "Can you tell me about metasurface"
+      ],
+      "responses": [
+        "Metasurfaces are two-dimensional or planar versions of metamaterials dealing with subwavelength thickness"
+      ]
+    },
+    {
+      "tag": "nonlinearity",
+      "patterns": [
+        "How to understand optical nonlinearity?",
+        "What is optical nonlinearity?",
+        "Nonlinearity?"
+      ],
+      "responses": [
+        "Nonlinear optics is the branch of optics that describes the behaviour of light in nonlinear media, \nthat is, media in which the polarization density P responds nonlinearly to the electric field E of the light."
+      ]
+    },
+    {
+      "tag": "linearity",
+      "patterns": [
+        "How to understand optical linearity?",
+        "What is optical linearity?",
+        "Linearity?"
+      ],
+      "responses": [
+        "Linear optics is a subfield of optics, consisting of linear systems, and is the opposite of nonlinear optics. \nLinear optics includes most applications of lenses, mirrors, waveplates, diffraction gratings, and many other common optical components and systems."
+      ]
+    },
+    {
+      "tag": "further linearity",
+      "patterns": [
+        "Can you explain more about optical linearity?",
+        "More on optical linearity?",
+        "Any examples of optical linearity?"
+      ],
+      "responses": [
+        "If monochromatic light enters an unchanging linear-optical system, the output will be at the same frequency. For example, if red light enters a lens, it will still be red when it exits the lens.",
+        "The superposition principle is valid for linear-optical systems. For example, if a mirror transforms light input A into output B, and input C into output D, then an input consisting of A and C simultaneously give an output of B and D simultaneously.",
+        "Relatedly, if the input light is made more intense, then the output light is made more intense but otherwise unchanged."
+      ]
+    },
+    {
+      "tag": "further nonlinearity",
+      "patterns": [
+        "Can you explain more about optical nonlinearity?",
+        "More on optical nonlinearity?",
+        "Any examples of optical nonlinearity?"
+      ],
+      "responses": [
+        "Certainly, in nonlinear optics, the superposition principle no longer holds and The nonlinearity is typically observed only at very high light intensities",
+        "Second harmonic generation, third harmonic generation, high harmonic generation, optical parametric oscillation, etc."
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?",
+        "Any jokes you have?",
+        "a joke?",
+        "joke"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What kind of room does not have a door? Mushroom.",
+        "Why penguin goes to right angle when it feels cold? Because right angle has ninety degree."
+      ]
+    }
+  ]
+}
