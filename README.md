@@ -2,7 +2,8 @@
 
 
 Command interactive chatbot
-![image](https://github.com/ZooBeasts/group_website_introdution_chatbot/assets/75404784/dbc30aec-732c-4af5-9745-4bcd83a1c8da)
+![Screenshot 2023-09-28 203036](https://github.com/ZooBeasts/Group_website_command_interactive_chatbot/assets/75404784/b28ba854-4f54-4e3a-a7a0-bdeeb99420a9)
+
 
 
 
