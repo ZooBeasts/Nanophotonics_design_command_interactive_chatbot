@@ -1,7 +1,7 @@
 # Group_website_introdution_chatbot
 
 
-Command interactivity chatbot
+Command interactive chatbot
 ![image](https://github.com/ZooBeasts/group_website_introdution_chatbot/assets/75404784/dbc30aec-732c-4af5-9745-4bcd83a1c8da)
 
 
