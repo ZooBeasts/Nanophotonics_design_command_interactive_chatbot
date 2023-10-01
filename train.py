@@ -16,48 +16,6 @@ from tkinter import ttk
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
-# Function to draw the bar graph
-def draw_bar_graph():
-    # Data for the bar graph (you can replace this with your own data)
-    categories = ['Category 1', 'Category 2', 'Category 3', 'Category 4']
-    values = [10, 24, 15, 30]
-
-    # Create a bar graph
-    fig, ax = plt.subplots()
-    ax.bar(categories, values)
-    ax.set_xlabel('Categories')
-    ax.set_ylabel('Values')
-    ax.set_title('Bar Graph')
-
-    # with open('data.csv', 'r') as file:
-    #     csv_reader = csv.reader(file)
-    #     next(csv_reader)  # Skip the header row if it exists
-    #
-    #     categories = []
-    #     values = []
-    #
-    #     for row in csv_reader:
-    #         categories.append(row[0])  # Assuming the first column contains category names
-    #         values.append(int(row[1]))  # Assuming the second column contains numerical values
-    #
-    #     # Create a bar graph
-    # fig, ax = plt.subplots()
-    # ax.bar(categories, values)
-    # ax.set_xlabel('Categories')
-    # ax.set_ylabel('Values')
-    # ax.set_title('Bar Graph')
-
-    # Embed the Matplotlib plot into the Tkinter window
-    canvas = FigureCanvasTkAgg(fig, master=window)
-    canvas.get_tk_widget().pack()
-
-# Create the main window
-
-
-# start the event
-
-
-
 
 
 
@@ -101,17 +59,8 @@ while True:
     if sentence == "quit":
         break
     elif sentence == "transfer matrix method":
-        window = tk.Tk()
-        window.title("Bar Graph App")
-
-        # Create a button to trigger the bar graph drawing
-        draw_button = ttk.Button(window, text="Draw Bar Graph", command=draw_bar_graph)
-        draw_button.pack()
-
-        # Run the Tkinter main loop
-        window.mainloop()
-    else:
         pass
+        
 
     sentence = tokenize(sentence)
     X = bag_of_words(sentence, all_words)
