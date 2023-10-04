@@ -18,7 +18,7 @@ https://github.com/ZooBeasts/Group_website_command_interactive_chatbot/assets/75
 
 
 Command interactive chatbot
-![Screenshot 2023-09-28 203036](https://github.com/ZooBeasts/Group_website_command_interactive_chatbot/assets/75404784/b28ba854-4f54-4e3a-a7a0-bdeeb99420a9) ![Screenshot 2023-10-03 102735](https://github.com/ZooBeasts/Nanophotonics_design_command_interactive_chatbot/assets/75404784/de434893-4e52-4ff9-beb3-d608ffed2477)
+![Screenshot 2023-09-28 203036](https://github.com/ZooBeasts/Group_website_command_interactive_chatbot/assets/75404784/b28ba854-4f54-4e3a-a7a0-bdeeb99420a9) | ![Screenshot 2023-10-03 102735](https://github.com/ZooBeasts/Nanophotonics_design_command_interactive_chatbot/assets/75404784/de434893-4e52-4ff9-beb3-d608ffed2477)
 
 
 
