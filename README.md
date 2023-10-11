@@ -1,5 +1,4 @@
-# The system has been deployed in the local servicer and shared within the department. Group web QA chatbot. offline command interactivity of inverse design of nanophotonics, metasurface, metamaterial, etc. Also, combine with Physics papers keyword extraction and Summarization.
-
+# The system has been deployed in the local servicer and shared within the department.
 
 
 03/Oct update some bug fixed
@@ -23,12 +22,3 @@ Command interactive chatbot
 
 
 
-
-## Development blog: 
-
-### add an event to plot the figure as a command 27/09/23
-
-
-Will use a pre_trained model later on to replace the QA chatbot once all pre_trained inverse designs and forward predictions are all set.
-QA chatbot Learned from YouTuber Patrick Loeber  https://www.youtube.com/watch?v=RpWeNzfSUHw&t=1039s&ab_channel=PatrickLoeber
-This is the initial try for the NLP project. I am working on a more intelligent chatbot now to explain nanophotonics and other simple physics questions chatbot, stay tuned 
