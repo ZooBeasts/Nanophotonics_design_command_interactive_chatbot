@@ -1,7 +1,8 @@
+# The system has been deployed in the local servicer and shared within the department. Group web QA chatbot. offline command interactivity of inverse design of nanophotonics, metasurface, metamaterial, etc. Also, combine with Physics papers keyword extraction and Summarization.
+
+
+
 03/Oct update some bug fixed
-
-
-
 https://github.com/ZooBeasts/Nanophotonics_design_command_interactive_chatbot/assets/75404784/71d50c59-3673-4c1d-8b23-8141088b295b
 
 
