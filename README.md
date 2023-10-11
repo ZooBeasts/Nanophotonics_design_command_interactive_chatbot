@@ -2,17 +2,8 @@
 
 
 03/Oct update some bug fixed
+
 https://github.com/ZooBeasts/Nanophotonics_design_command_interactive_chatbot/assets/75404784/71d50c59-3673-4c1d-8b23-8141088b295b
-
-
-
-
-
-
-
-
-
-https://github.com/ZooBeasts/Group_website_command_interactive_chatbot/assets/75404784/750e7e4d-3579-4c35-9fe7-5ff3e0d20c5f
 
 
 
