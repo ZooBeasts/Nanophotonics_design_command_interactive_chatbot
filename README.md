@@ -1,4 +1,5 @@
 # The system has been deployed in the local servicer and shared within the department.
+[demo1.webm](https://github.com/ZooBeasts/Nanophotonics_design_command_interactive_chatbot/assets/75404784/7bc6169c-2511-4fa5-94ca-9fe419a43815)
 
 https://github.com/ZooBeasts/Nanophotonics_design_command_interactive_chatbot/assets/75404784/6de7fb09-4d53-4af3-beae-634dd09bef16
 
