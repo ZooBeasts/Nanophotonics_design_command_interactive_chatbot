@@ -1,4 +1,4 @@
-# The system has been deployed in the local servicer and shared within the department.
+
 
 ![Screenshot 2024-09-16 103407](https://github.com/user-attachments/assets/82efdd75-9807-4d23-a646-8238df9608ae)
 
